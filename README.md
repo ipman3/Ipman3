@@ -103,7 +103,7 @@ Whether it's a mobile solution for your business, a custom backend system, or a 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ipman3&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ipman3" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=ipman3&show_icons=true&theme=react" alt="KHUT Lihong GitHub stats" />
 </p>
 
