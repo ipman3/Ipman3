@@ -1,19 +1,40 @@
 # 👋 Hey, I'm KHUT Lihong
 
-I'm a **Software Engineer** with over **12 years of experience** in **mobile app development**, **web development**, and **data analysis**.  
-CEO of [sFutureApps](https://sfutureapps.com) – I lead a team focused on building scalable digital solutions for tourism, enterprise, and automation.
+I’m a passionate software engineer with deep expertise in **mobile app development**, **web technologies**, and **data analysis**.  
+I am the **Founder and CEO of [sFutureApps](https://sfutureapps.com)** — a digital solutions company committed to helping businesses and organizations in Cambodia and beyond embrace technology that drives results.
 
 ---
 
-## 🚀 Key Projects
-- **Siem Reap Wonder App & Website** – Tourism & local discovery platform
-- **Siem Reap Tourism Club (STC)** – Digital hub for tourism operators & event coordination
-- **Cambodia Victory Group (CVG)** – Enterprise management system for streamlined operations
+## 🧩 About Me
+
+Over the past few years, I’ve led the successful development of several high-impact digital platforms, particularly in the **tourism** and **enterprise** sectors. My key projects include:
+
+- 🏞 **Siem Reap Wonder App & Website**  
+  A digital platform designed to promote tourism and make information accessible to visitors and locals alike.
+
+- 🌐 **Siem Reap Tourism Club (STC)**  
+  The official app and website connecting tourism operators, events, and businesses across the region.
+
+- 🏢 **Cambodia Victory Group (CVG)**  
+  A custom management system and mobile app helping digitize CVG's operations and streamline business workflows.
+
+These experiences have strengthened my belief in the power of well-crafted software to solve real-world problems, improve efficiency, and create opportunities.
 
 ---
 
-## 🧠 Currently Exploring
-Focusing on the **AI market**, building smart, adaptable software to support real-world business growth and automation.
+## 💡 Vision & Focus
+
+As a leader, I focus on building **reliable**, **user-friendly**, and **scalable** systems. My team and I prioritize:
+- Clean and efficient design
+- Strong backend architecture
+- Collaborative client partnerships
+
+Looking ahead, I'm shifting focus toward the **AI market** — exploring how artificial intelligence can be integrated into business platforms to:
+- Automate tasks
+- Deliver smarter insights
+- Create adaptive systems that evolve with user needs
+
+Whether it's a mobile solution for your business, a custom backend system, or a tourism-focused digital experience, I aim to deliver technology that works not just today — but scales for tomorrow.
 
 ---
 
